@@ -27,6 +27,7 @@ To facilitate real-time communication and data synchronization, the app utilizes
 
 ## Project Structure
 
+```plaintext
 Gps-Tracking/
 ├── assets/                 # Static assets like images, fonts, etc.
 │   ├── images/
@@ -45,6 +46,8 @@ Gps-Tracking/
 ├── package.json            # Project dependencies and scripts
 ├── babel.config.js         # Babel configuration for Expo
 └── node_modules/           # Installed Node.js dependencies
+
+```
 
 ## Screenshots
 
